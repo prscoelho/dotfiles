@@ -18,3 +18,10 @@ posthooks = []
 
 # You can have as many dot entry as you want, linking files or directories
 nvim = { source = "nvim", target = ".config/nvim" }
+gitconfig = { source = "git/config", target = ".config/git/config" }
+gitconfig_user = { source = "git/personal", target = ".config/git/user" }
+
+
+[profiles.work.dots]
+gitconfig_user = { source = "git/work" }
+

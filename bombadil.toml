@@ -20,8 +20,12 @@ posthooks = []
 nvim = { source = "nvim", target = ".config/nvim" }
 gitconfig = { source = "git/config", target = ".config/git/config" }
 gitconfig_user = { source = "git/personal", target = ".config/git/user" }
+tmux = { source = "tmux", target = ".config/tmux" }
+alacritty = { source = "alacritty", target = ".config/alacritty" }
+fish = { source = "fish", target = ".config/fish" }
 
 
 [profiles.work.dots]
 gitconfig_user = { source = "git/work" }
+fish = { source = "work/fish" } # add later
 

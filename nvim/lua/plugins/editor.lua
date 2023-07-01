@@ -15,16 +15,6 @@ return {
   -- disable cmp-buffer
   { "hrsh7th/cmp-buffer", enabled = false },
 
-  -- move tree to the right
-  {
-    "nvim-neo-tree/neo-tree.nvim",
-    opts = {
-      window = {
-        position = "right",
-      },
-    },
-  },
-
   -- add extra treesitter languages
   {
     "nvim-treesitter/nvim-treesitter",

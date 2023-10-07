@@ -12,7 +12,7 @@ fish_add_path ~/.cargo/bin
 fish_add_path ~/.local/bin
 
 # opam configuration
-source "$HOME/.opam/opam-init/init.fish" >/dev/null 2>/dev/null; or true
+# source "$HOME/.opam/opam-init/init.fish" >/dev/null 2>/dev/null; or true
 
 # ssh-agent
 if not command pgrep -u "$USER" ssh-agent >/dev/null

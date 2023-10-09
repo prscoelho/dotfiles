@@ -1,7 +1,4 @@
 return {
-  -- {
-  --   "EdenEast/nightfox.nvim",
-  -- },
   {
     "loctvl842/monokai-pro.nvim",
   },

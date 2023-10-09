@@ -12,9 +12,6 @@ return {
     opts = { region_check_events = "InsertEnter" },
   },
 
-  -- disable cmp-buffer
-  { "hrsh7th/cmp-buffer", enabled = false },
-
   -- add extra treesitter languages
   {
     "nvim-treesitter/nvim-treesitter",

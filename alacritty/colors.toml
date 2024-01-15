@@ -1,0 +1,359 @@
+# [[schemes.carbonfox.indexed_colors]]
+# color = "0x3ddbd9"
+# index = 16
+
+# [[schemes.carbonfox.indexed_colors]]
+# color = "0xff7eb6"
+# index = 17
+
+# [schemes.carbonfox.bright]
+# black = "0x484848"
+# blue = "0x8cb6ff"
+# cyan = "0x52bdff"
+# green = "0x46c880"
+# magenta = "0xc8a5ff"
+# red = "0xf16da6"
+# white = "0xe4e4e5"
+# yellow = "0x2dc7c4"
+
+# [schemes.carbonfox.normal]
+# black = "0x282828"
+# blue = "0x78a9ff"
+# cyan = "0x33b1ff"
+# green = "0x25be6a"
+# magenta = "0xbe95ff"
+# red = "0xee5396"
+# white = "0xdfdfe0"
+# yellow = "0x08bdba"
+
+# [schemes.carbonfox.primary]
+# background = "0x161616"
+# foreground = "0xf2f4f8"
+
+# [[schemes.catppuccin.indexed_colors]]
+# color = "#FAB387"
+# index = 16
+
+# [[schemes.catppuccin.indexed_colors]]
+# color = "#F5E0DC"
+# index = 17
+
+# [schemes.catppuccin.bright]
+# black = "#585B70"
+# blue = "#89B4FA"
+# cyan = "#94E2D5"
+# green = "#A6E3A1"
+# magenta = "#F5C2E7"
+# red = "#F38BA8"
+# white = "#A6ADC8"
+# yellow = "#F9E2AF"
+
+# [schemes.catppuccin.cursor]
+# cursor = "#F5E0DC"
+# text = "#1E1E2E"
+
+# [schemes.catppuccin.dim]
+# black = "#45475A"
+# blue = "#89B4FA"
+# cyan = "#94E2D5"
+# green = "#A6E3A1"
+# magenta = "#F5C2E7"
+# red = "#F38BA8"
+# white = "#BAC2DE"
+# yellow = "#F9E2AF"
+
+# [schemes.catppuccin.hints.end]
+# background = "#A6ADC8"
+# foreground = "#1E1E2E"
+
+# [schemes.catppuccin.hints.start]
+# background = "#F9E2AF"
+# foreground = "#1E1E2E"
+
+# [schemes.catppuccin.normal]
+# black = "#45475A"
+# blue = "#89B4FA"
+# cyan = "#94E2D5"
+# green = "#A6E3A1"
+# magenta = "#F5C2E7"
+# red = "#F38BA8"
+# white = "#BAC2DE"
+# yellow = "#F9E2AF"
+
+# [schemes.catppuccin.primary]
+# background = "#1E1E2E"
+# bright_foreground = "#CDD6F4"
+# dim_foreground = "#CDD6F4"
+# foreground = "#CDD6F4"
+
+# [schemes.catppuccin.search.focused_match]
+# background = "#A6E3A1"
+# foreground = "#1E1E2E"
+
+# [schemes.catppuccin.search.footer_bar]
+# background = "#A6ADC8"
+# foreground = "#1E1E2E"
+
+# [schemes.catppuccin.search.matches]
+# background = "#A6ADC8"
+# foreground = "#1E1E2E"
+
+# [schemes.catppuccin.selection]
+# background = "#F5E0DC"
+# text = "#1E1E2E"
+
+# [schemes.catppuccin.vi_mode_cursor]
+# cursor = "#B4BEFE"
+# text = "#1E1E2E"
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#458588"
+# index = 66
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#689d6a"
+# index = 72
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#98971a"
+# index = 106
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#8ec07c"
+# index = 108
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#83a598"
+# index = 109
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#cc241d"
+# index = 124
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#b16286"
+# index = 132
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#b8bb26"
+# index = 142
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#d65d0e"
+# index = 166
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#fb4934"
+# index = 167
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#d79921"
+# index = 172
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#d3869b"
+# index = 175
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#fe8019"
+# index = 208
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#fabd2f"
+# index = 214
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#ebdbb2"
+# index = 223
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#fbf1c7"
+# index = 229
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#1d2021"
+# index = 234
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#282828"
+# index = 235
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#32302f"
+# index = 236
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#3c3836"
+# index = 237
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#504945"
+# index = 239
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#665c54"
+# index = 241
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#7c6f64"
+# index = 243
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#928374"
+# index = 245
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#a89984"
+# index = 246
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#bdae93"
+# index = 248
+
+# [[schemes.gruvbox.indexed_colors]]
+# color = "#d5c4a1"
+# index = 250
+
+# [schemes.gruvbox.bright]
+# black = "#928374"
+# blue = "#83a598"
+# cyan = "#8ec07c"
+# green = "#b8bb26"
+# magenta = "#d3869b"
+# red = "#fb4934"
+# white = "#ebdbb2"
+# yellow = "#fabd2f"
+
+# [schemes.gruvbox.cursor]
+# cursor = "CellForeground"
+# text = "CellBackground"
+
+# [schemes.gruvbox.dim]
+# black = "#32302f"
+# blue = "#076678"
+# cyan = "#427b58"
+# green = "#79740e"
+# magenta = "#8f3f71"
+# red = "#9d0006"
+# white = "#928374"
+# yellow = "#b57614"
+
+# [schemes.gruvbox.normal]
+# black = "#282828"
+# blue = "#458588"
+# cyan = "#689d6a"
+# green = "#98971a"
+# magenta = "#b16286"
+# red = "#cc241d"
+# white = "#a89984"
+# yellow = "#d79921"
+
+# [schemes.gruvbox.primary]
+# background = "#282828"
+# bright_foreground = "#fbf1c7"
+# dim_foreground = "#a89984"
+# foreground = "#ebdbb2"
+
+# [schemes.gruvbox.selection]
+# background = "CellForeground"
+# text = "CellBackground"
+
+# [schemes.gruvbox.vi_mode_cursor]
+# cursor = "CellForeground"
+# text = "CellBackground"
+
+# [schemes.monokai-pro.bright]
+# black = "0x72696a"
+# blue = "0xf38d70"
+# cyan = "0x85dacc"
+# green = "0xadda78"
+# magenta = "0xa8a9eb"
+# red = "0xfd6883"
+# white = "0xfff1f3"
+# yellow = "0xf9cc6c"
+
+# [schemes.monokai-pro.normal]
+# black = "0x2c2525"
+# blue = "0xf38d70"
+# cyan = "0x85dacc"
+# green = "0xadda78"
+# magenta = "0xa8a9eb"
+# red = "0xfd6883"
+# white = "0xfff1f3"
+# yellow = "0xf9cc6c"
+
+# [schemes.monokai-pro.primary]
+# background = "0x2c2525"
+# foreground = "0xfff1f3"
+
+# [schemes.rose-pine.bright]
+# black = "0x6e6a86"
+# blue = "0x9ccfd8"
+# cyan = "0xebbcba"
+# green = "0x31748f"
+# magenta = "0xc4a7e7"
+# red = "0xeb6f92"
+# white = "0xe0def4"
+# yellow = "0xf6c177"
+
+# [schemes.rose-pine.cursor]
+# cursor = "0x524f67"
+# text = "0xe0def4"
+
+# [schemes.rose-pine.hints.end]
+# background = "#1f1d2e"
+# foreground = "#6e6a86"
+
+# [schemes.rose-pine.hints.start]
+# background = "#1f1d2e"
+# foreground = "#908caa"
+
+# [schemes.rose-pine.line_indicator]
+# background = "None"
+# foreground = "None"
+
+# [schemes.rose-pine.normal]
+# black = "0x26233a"
+# blue = "0x9ccfd8"
+# cyan = "0xebbcba"
+# green = "0x31748f"
+# magenta = "0xc4a7e7"
+# red = "0xeb6f92"
+# white = "0xe0def4"
+# yellow = "0xf6c177"
+
+# [schemes.rose-pine.primary]
+# background = "0x191724"
+# foreground = "0xe0def4"
+
+# [schemes.rose-pine.selection]
+# background = "0x403d52"
+# text = "0xe0def4"
+
+# [schemes.rose-pine.vi_mode_cursor]
+# cursor = "0x524f67"
+# text = "0xe0def4"
+
+# [schemes.tokyo-night.bright]
+# black = "#444b6a"
+# blue = "#7da6ff"
+# cyan = "#0db9d7"
+# green = "#b9f27c"
+# magenta = "#bb9af7"
+# red = "#ff7a93"
+# white = "#acb0d0"
+# yellow = "#ff9e64"
+
+# [schemes.tokyo-night.normal]
+# black = "#32344a"
+# blue = "#7aa2f7"
+# cyan = "#449dab"
+# green = "#9ece6a"
+# magenta = "#ad8ee6"
+# red = "#f7768e"
+# white = "#787c99"
+# yellow = "#e0af68"
+
+# [schemes.tokyo-night.primary]
+# background = "#1a1b26"
+# foreground = "#a9b1d6"

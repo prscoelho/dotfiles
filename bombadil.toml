@@ -27,5 +27,4 @@ fish = { source = "fish", target = ".config/fish" }
 
 [profiles.work.dots]
 gitconfig_user = { source = "git/work" }
-fish = { source = "work/fish" } # add later
-
+fish = { source = "work/fish" }          # add later

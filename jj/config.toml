@@ -1,0 +1,9 @@
+[user]
+name = "Paulo Coelho"
+email = "9609090+prscoelho@users.noreply.github.com"
+
+[aliases]
+mine = ["branch", "l", "-r", "mine()"]
+
+[revset-aliases]
+mine = 'mine() & ~::trunk()'

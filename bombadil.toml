@@ -24,6 +24,7 @@ tmux = { source = "tmux", target = ".config/tmux" }
 alacritty = { source = "alacritty", target = ".config/alacritty" }
 fish = { source = "fish", target = ".config/fish" }
 jj = { source = "jj", target = ".config/jj" }
+starship = { source = "starship/starship.toml", target = ".config/starship.toml" }
 
 
 [profiles.work.dots]

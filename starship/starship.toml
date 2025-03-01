@@ -1,0 +1,7 @@
+[directory]
+style = "bold blue"
+[character]
+success_symbol = "[❯](bold green)"
+error_symbol = "[❯](bold red)"
+[jobs]
+style = "bold cyan"

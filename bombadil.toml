@@ -30,3 +30,7 @@ starship = { source = "starship/starship.toml", target = ".config/starship.toml"
 [profiles.work.dots]
 gitconfig_user = { source = "git/work" }
 fish = { source = "work/fish" }          # add later
+
+[profiles.niri.dots]
+niri = { source = "wayland/niri/niri_config.kdl", target = ".config/niri/config.kdl" }
+waybar = { source = "wayland/niri/waybar_config.jsonc", target = ".config/waybar/config" }

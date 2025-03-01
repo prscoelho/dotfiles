@@ -43,5 +43,6 @@ if status is-login
     end
 end
 
+COMPLETE=fish jj | source
 zoxide init fish | source
 starship init fish | source
